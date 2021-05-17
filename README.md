@@ -1,4 +1,4 @@
-# File-Reader 
+# FileReader 
 /*  
 Create an application that reads and then displays  
 the contents of a file containing records with the   
