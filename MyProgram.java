@@ -1,5 +1,5 @@
 /*
-Create an Assignment application that reads and then displays
+Create an application that reads and then displays
 the contents of a file containing records with the 
 firstname, last name and scores for students into 3 parrallel arrays.
 Use Notepad or some other word processor to create the file.
@@ -10,7 +10,7 @@ and calculate an average.
  
 import java.io.*;
 
-public class Assignment2 {
+public class MyProgram {
 
     public static void main(String[] agrs) {
         FileReader in;
