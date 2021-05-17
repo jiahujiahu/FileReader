@@ -5,7 +5,6 @@ firstname, last name and scores for students into 3 parrallel arrays.
 Use Notepad or some other word processor to create the file.
 The program will display the file sorted by score (ascending order)
 and calculate an average.
-
  */
  
 import java.io.*;
