@@ -1,5 +1,13 @@
-# FileReader 
-Create an application that reads and then displays the contents of a file containing records with the firstname, last name and scores for students into 3 parrallel arrays. 
-Use Notepad or some other word processor to create the file.  
-The program will display the file sorted by score (ascending order) and calculate an average.  
- 
+# FileReader
+
+FileReader is a lightweight application that allows you to effortlessly read and display student records from a file. With FileReader, you can easily manage and analyze student data for various purposes.
+
+## Features
+
+- **Effortless File Reading**: FileReader simplifies the process of reading student records from a file. It automatically extracts data from the file and organizes it into easy-to-read formats.
+
+- **Parallel Arrays**: FileReader utilizes parallel arrays to store and manage student information, including first names, last names, and scores. This ensures efficient data handling and easy access to individual records.
+
+- **Sorting and Average Calculation**: FileReader provides the option to sort the student records by score in ascending order, allowing you to identify top-performing students. Additionally, it calculates the average score, giving you valuable insights into the overall performance of the students.
+
+- **User-Friendly Interface**: The application offers a user-friendly interface, guiding you through the process of selecting the file, displaying the records, and presenting the sorted data and average score in a clear and organized manner.
